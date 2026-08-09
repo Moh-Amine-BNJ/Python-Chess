@@ -18,7 +18,7 @@ A chess engine i made with pygame featuring **all the special rules**, **chess n
 
 ## Requirements
 
-Make sure to have Python installed with the following library: pygame
+Make sure to have Python installed with the following library: pygame \n
 You can install PyGame using this command:
 
 ```bash
