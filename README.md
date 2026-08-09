@@ -7,14 +7,14 @@ A chess engine i made with pygame featuring **all the special rules**, **chess n
 
 ## Features
 
-> chess move notations
-> undoing your move
-> choosing wether to flip the board or not for pass-and-play
-> king checks
-> checkmate and stalemate
-> castling
-> pawn promotion
-> en passant
+- chess move notations
+- undoing your move
+- choosing wether to flip the board or not for pass-and-play
+- king checks
+- checkmate and stalemate
+- castling
+- pawn promotion
+- en passant
 
 ## Requirements
 
